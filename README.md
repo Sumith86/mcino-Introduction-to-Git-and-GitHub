@@ -14,6 +14,7 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
+<<<<<<< HEAD
 ## Formula
 Simple Interest = (Principal × Rate × Time) / 100
 
@@ -26,3 +27,5 @@ Run the calculator script and enter the required values when prompted.
 
 ## Contributing
 Contributions are welcome. Please fork the repository and submit a pull request.
+=======
+>>>>>>> b90f36873499ad22273016daf436e1b5e40a74c7
